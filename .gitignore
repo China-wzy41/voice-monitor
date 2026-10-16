@@ -1,0 +1,1 @@
+# Python\n.venv/\n__pycache__/\n*.py[cod]\n\n# Local runtime data\nbackend/readings.db\n
